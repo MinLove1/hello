@@ -13,5 +13,5 @@ h3 {
 
 .kevin {
     background-image:url("kevin.jpg");
-    background-size:cover;
+    background-repeat:no-repeat;
 }
